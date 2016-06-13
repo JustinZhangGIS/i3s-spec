@@ -1,4 +1,4 @@
-Scene Layers: Service and Package Specification
+Scene Layers: 服务端和数据包规范
 ===============================================
 
 [![App](./teaser.jpg "Multiple Scene Services in a Web Viewer")] (http://www.arcgis.com/)
